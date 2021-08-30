@@ -1,7 +1,7 @@
 {
-    "name": "Spam Bot",
-    "description": "Best Spamming Bots",
-    "logo": "https://telegra.ph/file/8626f33867fc155eaa404.jpg",
+    "name": "ELITEBOY SPAMBOT",
+    "description": "HAHA BC BOT DEPLOY KR RHA..",
+    "logo": "https://telegra.ph/file/b704473d4127ff46d2843.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,9 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://t.me/TheMikasa",
-    "website": "https://t.me/TheMikasa",
-    "success_url": "https://t.me/TheMikasa",
+    "repository": "https://t.me/ITXX_HARRY",
+    "website": "https://t.me/ITXX_HARRY",
+    "success_url": "https://t.me/ITXX_HARRY",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",

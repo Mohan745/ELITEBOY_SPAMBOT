@@ -23,100 +23,114 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1987418803:AAGSpLTEz3_lX_R61kFpfVNBduDoG_ClYKo"
         },
         "BOT_TOKEN2": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1806841873:AAF-HSuVbBqN2yjNb7R6HAYvQvyanbUuAzo"
 
         },
         "BOT_TOKEN3": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1853446514:AAE6W1ua8DBnp--xvBMZrNK-U8JidnEaPEM"
            
         },
         "BOT_TOKEN4": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1822994473:AAFq5D_3Rz_PEaNqeVgMLesNozjeLMpTYDs"
             
         },
         "BOT_TOKEN5": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1808916897:AAF_Xh8a5f2n6zlnk2semBAkCCHjhgULBNA"
            
         },
         "BOT_TOKEN6": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1923608671:AAEr2aPcxXOST90HIC0CYH9rD-5hxiPet4k"
             
         },
         "BOT_TOKEN7": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1921188589:AAFTp2_V6GC1mj5kfy8ey93sndJMACdv7iY"
             
         },
         "BOT_TOKEN8": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1923354248:AAHKWxFLneb_KaHixgybo8-l4r3bqL4obkE"
             
         },
         "BOT_TOKEN9": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1905138184:AAH7bUPUgVyJUpwwhoW1628e33pLeQI0FcU"
             
         },
         "BOT_TOKEN10": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1900872211:AAHYdnyIY5PbK2Qpmz1wEl4Smt-dVrgQwiU"
             
         },
         "BOT_TOKEN11": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1958436910:AAH3kB9WQS7WRFNgguRfkUaYsrvqBkbFkpg"
         },
         "BOT_TOKEN12": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1966367464:AAGuob0etF_5BAmmLiPECKbWq03OGAASmLM"
 
         },
         "BOT_TOKEN13": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1998543801:AAEOAder5j9A2EmxyJjLRFZXHz41ypzLedg"
            
         },
         "BOT_TOKEN14": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1977741444:AAGRyJc0SYKnDkKN84SaHF3cnw5vElmELfc"
             
         },
         "BOT_TOKEN15": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1966300481:AAEdmpVSjpC1YkW_HlX0FUTjvwGnf1t1iyo"
            
         },
         "BOT_TOKEN16": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1901733871:AAF0uFu8l9EHm49KJxMPWuDSXRVZO3A8R_Y"
             
         },
         "BOT_TOKEN17": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1999640631:AAEITWzo_m-pVChxQBJxlgTWY0HRg0HVpFE"
             
         },
         "BOT_TOKEN18": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1913052823:AAHsbK45aqC_Zl-KuUOhvoOGeT6eRQTumjk"
             
         },
         "BOT_TOKEN19": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "
+1963862043:AAGmRT6NUZEZWMd_9pra_eYjTXLE_u8EDRk"
             
         },
         "BOT_TOKEN20": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1770772621:AAEpTMmAfN9-gbjRq8orTF4CLA59ursDcLk"
             
         },
         "SUDO_USERS": {

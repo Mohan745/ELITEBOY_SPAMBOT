@@ -16,7 +16,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
 
 print("Successfully deployed!")
-print("Enjoy! Do visit @Zaid_Updates")
+print("Bot start ho gays bsdk ja subki gand mar 🥵")
 
 if __name__ == "__main__":
     UstaD.run_until_disconnected()

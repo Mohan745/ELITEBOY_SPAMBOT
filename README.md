@@ -25,9 +25,7 @@
 <a href="https://t.me/ELITEBOY_SPAMBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[𝙷𝙰𝚁𝚁𝚈🇮🇳](https://t.me/ITXX_HARRY)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙴𝙻𝙸𝚃𝙴𝙱𝙾𝚈🇮🇳](https://t.me/PUNISHER_OP)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/USTAD_OP)
+## 𝙾𝚆𝙽𝙴𝚁 -[𝙴𝙻𝙸𝚃𝙴𝙱𝙾𝚈🇮🇳](https://t.me/PUNISHER_OP)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
